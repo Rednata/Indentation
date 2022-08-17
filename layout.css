@@ -1,0 +1,17 @@
+.article{
+  padding-top: 60px;
+}
+.article__title,
+.section {
+  padding: 0 30px;
+}
+
+.section,
+.nav,
+.resume {
+  margin-bottom: 50px;
+}
+
+
+
+
